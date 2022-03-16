@@ -98,18 +98,4 @@ O episódio usa como exemplo o aprendizado de Machine Learning para alguém que 
 * A importância das práticas de recuperação - https://www.learningscientists.org/re...
 * Template plano de estudo - https://github.com/asouza/pilares-des...
 
-# Saiba mais sobre a Jornada Dev Eficiente:
 
-Por um valor acessível você tem acesso a uma jornada de estudo e treino excelente sobre Design de Código. Confere em  http://deveficiente.com :). 
-
-# Saiba mais sobre mim :)
-Github: https://github.com/asouza 
-Twitter: https://twitter.com/alberto_souza 
-Instagram: https://www.instagram.com/deveficiente/
-
-## Consegue validar o seu aprendizado?
-
-1. Tentar achar alguém fera sobre o assunto para validar o que voce fez
-2. Comparar suas respostas com a de outras pessoas em fóruns especializados
-3. Participar de eventos sobre o tema e perceber o seu nivel de conforto
-4. O que voce acha sobre o seu aprendizado (sua percepcao).
